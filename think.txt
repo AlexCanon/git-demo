@@ -1,2 +1,4 @@
-Работа программиста сродни работе писателя;
-В обоих случаях задача состоит в том, чтобы донести свою мысль до читателя.
+The work of a programmer is akin to the work of a writer;
+In both cases, the task is to convey your message to the reader.
+
+So, if something happens, you can change your profession.
