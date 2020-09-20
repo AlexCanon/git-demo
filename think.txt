@@ -1,13 +1,6 @@
-<<<<<<< HEAD
-Работа программиста сродни работе писателя;
-В обоих случаях задача состоит в том, чтобы донести свою мысль до читателя.
+The work of a programmer is akin to the work of a writer;
+In both cases, the task is to convey your message to the reader.
 
 "Thinking in java" - Bruce Eckel
 
 or bruce excel?
-=======
-The work of a programmer is akin to the work of a writer;
-In both cases, the task is to convey your message to the reader.
-
-So, if something happens, you can change your profession.
->>>>>>> c299817340d914b7306dcf0d28b39c44602331c2
