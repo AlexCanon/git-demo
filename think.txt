@@ -2,3 +2,5 @@
 В обоих случаях задача состоит в том, чтобы донести свою мысль до читателя.
 
 "Thinking in java" - Bruce Eckel
+
+or bruce excel?
